@@ -1,6 +1,9 @@
 # firstrepo
 Artificial Intelligence batch 2 repositories
 
+# Faiq Ahmed
+https://github.com/Faiq-Ahmed-king/firstrepo.git
+
 # hina's repo file
 https://github.com/asadali0999/firstrepo
 
